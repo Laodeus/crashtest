@@ -1,0 +1,67 @@
+body {
+    background-color:rgba(0,0,0,1);
+    
+    color: white;
+    
+}
+
+#End{
+    
+    
+    position : absolute;
+    
+    top : 30%;
+    left : 5%;
+    
+    width  : 90%;
+    height  : 20%;
+    
+    color : white;
+    text-align: center;
+    
+     font-size: 150%;
+}
+  
+#GameCtnr{
+    
+    position : absolute;
+    
+    top : 5%;
+    left : 5%;
+     
+    width  : 90%;
+    height  : 90%;
+    
+    border: 2px solid white;
+    
+    
+    
+    
+}
+
+#keyHelp
+{
+    
+    
+    position : absolute;
+    
+    top : 89%;
+    left : 61%;
+    
+    border: 2px solid white;
+    
+    
+    
+    
+}
+
+#Cred
+{
+    position : absolute;
+    
+    top : 96%;
+    left : 0%;
+    
+    border: 2px solid white;
+}
+
