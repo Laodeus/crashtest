@@ -1,4 +1,4 @@
-#Moonlander
+# Moonlander
 
 Ca vous tente d'essayer d'alunir?
 Vu la descente vous n'aurez pas le choix. :D
@@ -9,7 +9,7 @@ Vu la descente vous n'aurez pas le choix. :D
 
 Bonne chance commandant.
 
-#Commandes 
+# Commandes 
 
 Z => Freiner/monter.
 Q => rotation gauche.
